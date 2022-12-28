@@ -10,6 +10,7 @@
       <module>servlet-02</module>
     <module>response</module>
     <module>request</module>
+    <module>cookieSession</module>
   </modules>
   <name>maven_javaweb Maven Webapp</name>
   <url>http://maven.apache.org</url>
