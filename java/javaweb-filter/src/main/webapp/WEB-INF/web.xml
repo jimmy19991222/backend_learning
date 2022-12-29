@@ -18,6 +18,24 @@
     <url-pattern>/servlet/show</url-pattern>
   </servlet-mapping>
 
+  <servlet>
+    <servlet-name>Login</servlet-name>
+    <servlet-class>com.jieming.servlet.LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Login</servlet-name>
+    <url-pattern>/servlet/login</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Logout</servlet-name>
+    <servlet-class>com.jieming.servlet.LogoutServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Logout</servlet-name>
+    <url-pattern>/servlet/logout</url-pattern>
+  </servlet-mapping>
+
   <filter>
     <filter-name>CharacterEncodingFilter</filter-name>
     <filter-class>com.jieming.filter.CharacterEncodingFilter</filter-class>
@@ -28,8 +46,17 @@
     <url-pattern>/servlet/*</url-pattern>
   </filter-mapping>
 
+  <filter>
+    <filter-name>SysFilter</filter-name>
+    <filter-class>com.jieming.listener.SysFilter</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>SysFilter</filter-name>
+    <!--    every request with format of "/servlet/*" will be filtered-->
+    <url-pattern>/sys/success.jsp</url-pattern>
+  </filter-mapping>
+
   <listener>
     <listener-class>com.jieming.listener.OnlineCountListener</listener-class>
   </listener>
-
 </web-app>

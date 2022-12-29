@@ -6,5 +6,7 @@
     Currently <span><%=this.getServletConfig().getServletContext().getAttribute("OnlineCount")%></span> people online...
 </h3>
 
+<a href="/sys/login.jsp">login</a>
+
 </body>
 </html>

@@ -5,55 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a964991-8545-452d-bf4e-07c47d33f4e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../HTML/html/myFirstWeb.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML/html/structure.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML/resource/test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTML/resource/video/test.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConfidentialFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaweb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../web/javaweb.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/TestInetAddress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/TestInetSocketAddress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/URL/URLtest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/chat/TalkFangfang.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/chat/TalkJieming.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/chat/TalkReceive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/chat/TalkSend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/chat/UdpReceiver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/chat/UdpSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/tcpip/TcpClientDemo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/tcpip/TcpServerDemo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/terminal_command.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/udp/UdpClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/udp/UdpServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/upload/TcpClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaweb/com/jieming/web/upload/TcpServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/TestInetAddress.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/TestInetSocketAddress.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/URL/URLtest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/chat/TalkFangfang.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/chat/TalkJieming.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/chat/TalkReceive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/chat/TalkSend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/chat/UdpReceiver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/chat/UdpSender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/tcpip/TcpClientDemo01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/tcpip/TcpServerDemo01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/terminal_command.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/udp/UdpClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/udp/UdpServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/upload/TcpClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jieming/web/upload/TcpServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven_javaweb/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maven_javaweb/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,14 +25,17 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2a964991-8545-452d-bf4e-07c47d33f4e2" name="Changes" comment="" />
@@ -86,8 +43,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670762106526</updated>
+      <workItem from="1672322717549" duration="139000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -99,5 +60,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
